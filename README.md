@@ -1,4 +1,4 @@
-# Se-450-ShoppingSystem
+# SE-450-ShoppingSystem
 
 This project is a Java-based simplified shopping system designed to demonstrate the application of fundamental software engineering principles and design patterns.
 
