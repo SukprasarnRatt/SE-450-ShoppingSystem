@@ -24,7 +24,7 @@ You can exit the application at any time by choosing the exit option from the ma
 The Shopping System is built using Java and follows object-oriented principles to structure the application into manageable components, each responsible for a distinct aspect of the application:
 
 - **User Authentication:** Handles user registration and login, ensuring that shopping cart data is associated with individual user accounts.
-- **Product Catalog:** A collection of products that users can browse. The catalog can be populated from a static data file or a database.
+- **Product Catalog:** A collection of products that users can browse. The catalog can be populated from a static data file.
 - **Shopping Cart Management:** Allows users to add items to a shopping cart, modify item quantities, or remove items.
 - **Order Processing:** Uses design patterns like Singleton and Factory to manage the lifecycle of a shopping cart and the creation of product instances.
 - **Mock Payment Processing:** Simulates the payment process, abstracted from the core shopping functionality to mimic real-world payment gateways.
